@@ -1,0 +1,56 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Room 1",
+        "description": "House located on bank of river \"Mtkvari\", 2 min. walk to \"Dry bridge\" flea market of Antiques, 2min. to most popular walking area, 5min. to \"Rustaveli\" avenue. Wine bars, cafes, Taverns & Restaurants are 2min. walk. We offer a 24H transfer from the airport to the house.",
+        "keywords": [
+          "room", "house", "rental", "for family"
+        ],
+        "image": "1-room.jpg",
+        "age": [
+          "0", "+"
+        ],
+        "price": 19.99
+      },
+      {
+        "id": 2,
+        "name": "Room 2",
+        "description": "House located on bank of river \"Mtkvari\", 2 min. walk to \"Dry bridge\" flea market of Antiques, 2min. to most popular walking area, 5min. to \"Rustaveli\" avenue. Wine bars, cafes, Taverns & Restaurants are 2min. walk. We offer a 24H transfer from the airport to the house.",
+        "keywords": [
+          "room", "house", "rental", "for family"
+        ],
+        "image": "2-room.jpg",
+        "age": [
+          "3", "10"
+        ],
+        "price": 38.50
+      },
+      {
+        "id": 3,
+        "name": "Room 3",
+        "description": "House located on bank of river \"Mtkvari\", 2 min. walk to \"Dry bridge\" flea market of Antiques, 2min. to most popular walking area, 5min. to \"Rustaveli\" avenue. Wine bars, cafes, Taverns & Restaurants are 2min. walk. We offer a 24H transfer from the airport to the house.",
+        "keywords": [
+          "room", "house", "rental", "for family"
+        ],
+        "image": "3-room.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Room 4",
+        "description": "House located on bank of river \"Mtkvari\", 2 min. walk to \"Dry bridge\" flea market of Antiques, 2min. to most popular walking area, 5min. to \"Rustaveli\" avenue. Wine bars, cafes, Taverns & Restaurants are 2min. walk. We offer a 24H transfer from the airport to the house.",
+        "keywords": [
+          "room", "house", "rental", "for family"
+        ],
+        "image": "4-room.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      }
+    ]
+  }
